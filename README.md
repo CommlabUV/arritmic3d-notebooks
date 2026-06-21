@@ -7,6 +7,7 @@ This repository contains a collection of [Jupyter Notebooks](https://jupyter.org
 - **1.arritmic3d_intro.ipynb**: Basic introduction to the tool and fundamental concepts.
 - **2.arritmic3d_models.ipynb**: Exploration of different restitution models and available configurations.
 - **3.arritmic3d_blockage.ipynb**: Simulation of conduction blocks and complex dynamics.
+- **4.arritmic3d_sensors.ipynb**: How to place sensors and record the temporal evolution of variables at specific tissue points.
 
 ## Requirements
 
